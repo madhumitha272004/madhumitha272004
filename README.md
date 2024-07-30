@@ -2,7 +2,7 @@
 <h3 align="center">Artificial Intelligence and Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhumitha272004&label=Profile%20views&color=0e75b6&style=flat" alt="madhumitha272004" /> </p>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/w3APLkMuTX0AAAAC/computer-work.gif" alt="Description of image" width="50%" height="50%">
 
 
 <h3 align="left">Connect with me:</h3>
