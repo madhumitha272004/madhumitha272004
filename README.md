@@ -2,9 +2,12 @@
 <h3 align="center">Artificial Intelligence and Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhumitha272004&label=Profile%20views&color=0e75b6&style=flat" alt="madhumitha272004" /> </p>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=moneshai2004&label=Profile%20views&color=0e75b6&style=flat" alt="moneshai2004" /> </p>
 
-<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/madhumitha-s-74698b253/">LinkedIn</a></h3>
-<p align="right"><img src="https://media1.tenor.com/m/w3APLkMuTX0AAAAC/computer-work.gif" alt="Description of image" width="150 px" height="150 px"></p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/in/monesh-s-8924b6219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/monesh-s-8924b6219" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
