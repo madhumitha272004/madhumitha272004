@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhumitha272004&label=Profile%20views&color=0e75b6&style=flat" alt="madhumitha272004" /> </p>
 
-<h3 align="left">Connect with me:https://www.linkedin.com/in/madhumitha-s-74698b253/</h3>
+<h3 align="left">Connect with me:https://www.linkedin.com/in/madhumitha-s-74698b253/</h3><img src="https://media1.tenor.com/m/w3APLkMuTX0AAAAC/computer-work.gif" alt="Description of image">
+
 <p align="left">
 </p>
 
