@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhumitha272004&label=Profile%20views&color=0e75b6&style=flat" alt="madhumitha272004" /> </p>
 
 <h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/madhumitha-s-74698b253/">LinkedIn</a></h3>
-<p align="right"><img src="https://media1.tenor.com/m/w3APLkMuTX0AAAAC/computer-work.gif" alt="Description of image" width="50%" height="50%"></p>
+<p align="right"><img src="https://media1.tenor.com/m/w3APLkMuTX0AAAAC/computer-work.gif" alt="Description of image" width="150 px" height="150 px"></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
