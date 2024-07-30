@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhumitha272004&label=Profile%20views&color=0e75b6&style=flat" alt="madhumitha272004" /> </p>
 
-<h3 align="left">Connect with me:https://www.linkedin.com/in/madhumitha-s-74698b253/</h3><div class="tenor-gif-embed" data-postid="14640055" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/computer-work-online-gif-14640055">Computer Work GIF</a>from <a href="https://tenor.com/search/computer-gifs"></a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<h3 align="left">Connect with me:https://www.linkedin.com/in/madhumitha-s-74698b253/</h3>
 <p align="left">
 </p>
 
